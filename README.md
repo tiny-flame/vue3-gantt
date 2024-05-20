@@ -28,14 +28,13 @@
 - [TypeScript](https://www.typescriptlang.org/) - 熟悉`TypeScript`基本语法
 - [Es6+](http://es6.ruanyifeng.com/) - 熟悉 es6 基本语法 
 - [Ant-Design-Vue](https://antdv.com/docs/vue/introduce-cn/) - ui 基本使用
-- [Mock.js](https://github.com/nuysoft/Mock) - mockjs 基本语法
 
 ## 安装使用
 
 - 获取项目代码
 
 ```bash
-git clone https://github.com/anncwb/vue3-gantt.git
+git clone https://github.com/tiny-flame/vue3-gantt.git
 ```
 
 - 安装依赖
@@ -52,18 +51,11 @@ pnpm install
 ```bash
 pnpm serve
 ```
-
-- 打包
-
-```bash
-pnpm build
-```
-
   
 
 ## 更新日志
 
-[CHANGELOG](./CHANGELOG.zh_CN.md)
+[CHANGELOG](./CHANGELOG.md)
 
 ## 项目地址
 
@@ -71,7 +63,7 @@ pnpm build
 
 ## 如何贡献
 
-非常欢迎你的加入！[提一个 Issue](https://github.com/anncwb/vue3-gantt/issues/new/choose) 或者提交一个 Pull Request。
+非常欢迎你的加入！[提一个 Issue](https://github.com/tiny-flame/vue3-gantt/issues/new/choose) 或者提交一个 Pull Request。
 
 **Pull Request:**
 
