@@ -57,10 +57,6 @@ pnpm serve
 
 [CHANGELOG](./CHANGELOG.md)
 
-## 项目地址
-
-- [vue3-gantt](https://github.com/anncwb/vue3-gantt) - 完整版
-
 ## 如何贡献
 
 非常欢迎你的加入！[提一个 Issue](https://github.com/tiny-flame/vue3-gantt/issues/new/choose) 或者提交一个 Pull Request。
